@@ -8,7 +8,7 @@
  <ul>
 
 <h5>Requirements</h5>
- <ol type="1">
+ <ol>
   <li>Test pages for Interval Recognition, with audio and multiple choice answers</li>
   <li>Test pages for Note names, picture of random note and multiple choice answers</li>
   <li>Test page for scales,picture of random scale and multiple choice answers</li>
