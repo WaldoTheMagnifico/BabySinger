@@ -20,9 +20,9 @@
  <h5>Test Plan</h5>
  <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Requirement</th>
+    <th>Test Method</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
