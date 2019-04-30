@@ -9,54 +9,74 @@
 
 <h5>Requirements</h5>
  <ol>
+  <li>Navigation buttons lead to correct Views</li>
   <li>Test pages for Interval Recognition, with audio and multiple choice answers</li>
-  <li>Test pages for Note names, picture of random note and multiple choice answers</li>
+  <li>Test pages for Note Names, picture of random note and multiple choice answers</li>
   <li>Test page for Scales,picture of random scale and multiple choice answers</li>
   <li>Study pages for each test category</li>
   <li>Grading(for current session only)</li>
-  <li>Referance page for piano key names, guitar and bass fretboard and various other instrument finger charts</li>
+  <li>Referance pages for piano key names, guitar and bass fretboard and various other instrument finger charts</li>
+  <li>Clear and easy to understand navigation</li>
  </ol>
  
  <h5>Test Plan</h5>
  <table>
   <tr>
     <th>Requirement</th>
+    <th>Test</th>
     <th>Test Method</th>
     <th>Status</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>A</td>
+    <td>Navigation lead to correct pages</td>
+    <td>Inspection</td>
+    <td>Pass</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>B</td>
+    <td>Audio clip corresponds with correct option</td>
+    <td>Unit Test/Inspection</td>
+    <td>Not Implemented</td>
   </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+   <tr>
+    <td>C</td>
+    <td>Picture corresponds with correct option</td>
+    <td>Unit Test/Inspection</td>
+    <td>Not Implemented</td>
   </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+   <tr>
+    <td>D</td>
+    <td>Picture corresponds with correct option</td>
+    <td>Unit Test/Inspection</td>
+    <td>Not Implemented</td>
   </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+   <tr>
+    <td>E</td>
+    <td>Study page with answers for each Test page</td>
+    <td>Unit Test/Inspection</td>
+    <td>1 of 3 Passing</td>
   </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+   <tr>
+    <td>F</td>
+    <td>Session will show number of correct answers out of total answers</td>
+    <td>Unit Test/Inspection</td>
+    <td>Not Implemented</td>
+  </tr>
+   <tr>
+    <td>G</td>
+    <td>Pages have correct information about instrument fingering</td>
+    <td>Inspection</td>
+    <td>Not Implemented</td>
+  </tr>
+   <tr>
+    <td>H</td>
+    <td>Website is user friendly and easy to use</td>
+    <td>Inspection/Beta testing</td>
+    <td>Not Passing</td>
   </tr>
 </table>
- 
- 
+
 <h5>Implemented Technologies</h5>
 <ul>
   <li>Azure Services</li>
