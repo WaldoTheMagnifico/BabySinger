@@ -1,6 +1,7 @@
 # BabySinger
 <p>Baby Singers(unofficial title) is a web application that is designed to help everyone, especially younger kids, to learn the basics of music theory. The goal is for the finished product to be a free, fun and intuitive starting point for anyone interested in learning to read note names, recognize intervals by ear and more.</p>
-
+<html>
+ <body>
 <h6>User Statements</h6>
  <ul>
   <li>As someone with little or no musical background, I want an easy and interactive way to learn the basics of reading music.</li>
@@ -85,3 +86,5 @@
   <li>ASP.NET Core</li>
   <li>MVC</li>
 </ui>
+</body>
+</html>
