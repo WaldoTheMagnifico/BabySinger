@@ -1,4 +1,4 @@
-will have notation flip cards and audio examples for each interval, ascending and desending<li># BabySinger
+# BabySinger
 <p>Baby Singers(unofficial title) is a web application that is designed to help everyone, especially younger kids, to learn the basics of music theory. The goal is for the finished product to be a free, fun and intuitive starting point for anyone interested in learning to read note names, recognize intervals by ear and more.</p>
           <h6>User Statements</h6>
  <ul>
