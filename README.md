@@ -1,4 +1,4 @@
-# BabySinger
+will have notation flip cards and audio examples for each interval, ascending and desending<li># BabySinger
 <p>Baby Singers(unofficial title) is a web application that is designed to help everyone, especially younger kids, to learn the basics of music theory. The goal is for the finished product to be a free, fun and intuitive starting point for anyone interested in learning to read note names, recognize intervals by ear and more.</p>
           <h6>User Statements</h6>
  <ul>
@@ -8,12 +8,16 @@
 <h5>Requirements</h5>
  <ol>
    <li>Navigation buttons lead to correct Views</li>
-   <li>Test pages for Interval Recognition, with audio and multiple choice answers</li>
-   <li>Test pages for Note Names, picture of random note and multiple choice answers</li>
-   <li>Test page for Scales,picture of random scale and multiple choice answers</li>
-   <li>Study pages for each test category</li>
-   <li>Grading(for current session only)</li>
+   <li>General page layout wil have a navigation bar at the top of the page with buttonsto navigate to key pages including Home, 
+   <li>Study page for Interval Regognition will have notation flip cards and audio examples for each interval, ascending and desending<li>
+   <li>Two test pages for Interval Recognition, one for audio recognition and one for notation</li>
+   <li>Study page for Note Names will have flip cards, the notation on the front and the note name on the back in both treble and bass clef</li>
+   <li>Test pages for Note Names, picture of random note with all note options availible as choices</li>
+   <li>Study pages for Scales will have notation flip cards and audio examples for each interval, ascending and desending<li>
+   <li>Two test pages for Scales, one for audio recognition and one for notation</li>
+   <li>Gradingfor test pages will diplay the number of correct answers beside the total number of questions asked in the session</li>
    <li>Referance pages for piano key names, guitar and bass fretboard and various other instrument finger charts</li>
+   <li>Study page for piano key names will have flip cards with a picture of a key on the front and notation for the note on the back for each note in both treble and bass clef</li>
    <li>Clear and easy to understand navigation</li>
  </ol>
      <h5>Test Plan</h5>
